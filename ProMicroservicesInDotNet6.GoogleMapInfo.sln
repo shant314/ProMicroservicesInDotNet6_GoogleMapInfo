@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProMicroservicesInDotNet6.GoogleMapInfo", "ProMicroservicesInDotNet6.GoogleMapInfo\ProMicroservicesInDotNet6.GoogleMapInfo.csproj", "{4D5F59F8-076A-4556-8FFE-6B4EAA68F190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProMicroservicesInDotNet6.GoogleMapInfo.Business", "ProMicroservicesInDotNet6.GoogleMapInfo.Business\ProMicroservicesInDotNet6.GoogleMapInfo.Business.csproj", "{DB0F0E96-79DC-475D-A9D0-86F5C36CC88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D5F59F8-076A-4556-8FFE-6B4EAA68F190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5F59F8-076A-4556-8FFE-6B4EAA68F190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5F59F8-076A-4556-8FFE-6B4EAA68F190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5F59F8-076A-4556-8FFE-6B4EAA68F190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0F0E96-79DC-475D-A9D0-86F5C36CC88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0F0E96-79DC-475D-A9D0-86F5C36CC88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0F0E96-79DC-475D-A9D0-86F5C36CC88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0F0E96-79DC-475D-A9D0-86F5C36CC88D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F8B2FF2-1083-4D84-8C8A-F898A8BA6ABD}
+	EndGlobalSection
+EndGlobal
